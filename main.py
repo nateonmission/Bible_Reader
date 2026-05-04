@@ -1,12 +1,17 @@
 # /main.py
 from datetime import date
-from commands import command_list, repl_command, exit_command, help_command
+from commands import command_list, repl_command, exit_command, help_command, home_command
+
 
 def main():
     current_year = date.today().year
+    loop_count = 0
     
     repl_loop = True
     while repl_loop:
+        if loop_count == 0:
+            command_list["home"].func([])
+            loop_count += 1
         user_input = input("Bible Reader > ")
         command_parts = user_input.split()
         
