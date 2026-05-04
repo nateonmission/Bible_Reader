@@ -1,0 +1,1190 @@
+book_index,book_name,chapter,testament,chapter_verse_count
+1,Genesis,1,Old,31
+1,Genesis,2,Old,25
+1,Genesis,3,Old,24
+1,Genesis,4,Old,26
+1,Genesis,5,Old,32
+1,Genesis,6,Old,22
+1,Genesis,7,Old,24
+1,Genesis,8,Old,22
+1,Genesis,9,Old,29
+1,Genesis,10,Old,32
+1,Genesis,11,Old,32
+1,Genesis,12,Old,20
+1,Genesis,13,Old,18
+1,Genesis,14,Old,24
+1,Genesis,15,Old,21
+1,Genesis,16,Old,16
+1,Genesis,17,Old,27
+1,Genesis,18,Old,33
+1,Genesis,19,Old,38
+1,Genesis,20,Old,18
+1,Genesis,21,Old,34
+1,Genesis,22,Old,24
+1,Genesis,23,Old,20
+1,Genesis,24,Old,67
+1,Genesis,25,Old,34
+1,Genesis,26,Old,35
+1,Genesis,27,Old,46
+1,Genesis,28,Old,22
+1,Genesis,29,Old,35
+1,Genesis,30,Old,43
+1,Genesis,31,Old,55
+1,Genesis,32,Old,32
+1,Genesis,33,Old,20
+1,Genesis,34,Old,31
+1,Genesis,35,Old,29
+1,Genesis,36,Old,43
+1,Genesis,37,Old,36
+1,Genesis,38,Old,30
+1,Genesis,39,Old,23
+1,Genesis,40,Old,23
+1,Genesis,41,Old,57
+1,Genesis,42,Old,38
+1,Genesis,43,Old,34
+1,Genesis,44,Old,34
+1,Genesis,45,Old,28
+1,Genesis,46,Old,34
+1,Genesis,47,Old,31
+1,Genesis,48,Old,22
+1,Genesis,49,Old,33
+1,Genesis,50,Old,26
+2,Exodus,1,Old,22
+2,Exodus,2,Old,25
+2,Exodus,3,Old,22
+2,Exodus,4,Old,31
+2,Exodus,5,Old,23
+2,Exodus,6,Old,30
+2,Exodus,7,Old,25
+2,Exodus,8,Old,32
+2,Exodus,9,Old,35
+2,Exodus,10,Old,29
+2,Exodus,11,Old,10
+2,Exodus,12,Old,51
+2,Exodus,13,Old,22
+2,Exodus,14,Old,31
+2,Exodus,15,Old,27
+2,Exodus,16,Old,36
+2,Exodus,17,Old,16
+2,Exodus,18,Old,27
+2,Exodus,19,Old,25
+2,Exodus,20,Old,26
+2,Exodus,21,Old,36
+2,Exodus,22,Old,31
+2,Exodus,23,Old,33
+2,Exodus,24,Old,18
+2,Exodus,25,Old,40
+2,Exodus,26,Old,37
+2,Exodus,27,Old,21
+2,Exodus,28,Old,43
+2,Exodus,29,Old,46
+2,Exodus,30,Old,38
+2,Exodus,31,Old,18
+2,Exodus,32,Old,35
+2,Exodus,33,Old,23
+2,Exodus,34,Old,35
+2,Exodus,35,Old,35
+2,Exodus,36,Old,38
+2,Exodus,37,Old,29
+2,Exodus,38,Old,31
+2,Exodus,39,Old,43
+2,Exodus,40,Old,38
+3,Leviticus,1,Old,17
+3,Leviticus,2,Old,16
+3,Leviticus,3,Old,17
+3,Leviticus,4,Old,35
+3,Leviticus,5,Old,19
+3,Leviticus,6,Old,30
+3,Leviticus,7,Old,38
+3,Leviticus,8,Old,36
+3,Leviticus,9,Old,24
+3,Leviticus,10,Old,20
+3,Leviticus,11,Old,47
+3,Leviticus,12,Old,8
+3,Leviticus,13,Old,59
+3,Leviticus,14,Old,57
+3,Leviticus,15,Old,33
+3,Leviticus,16,Old,34
+3,Leviticus,17,Old,16
+3,Leviticus,18,Old,30
+3,Leviticus,19,Old,37
+3,Leviticus,20,Old,27
+3,Leviticus,21,Old,24
+3,Leviticus,22,Old,33
+3,Leviticus,23,Old,44
+3,Leviticus,24,Old,23
+3,Leviticus,25,Old,55
+3,Leviticus,26,Old,46
+3,Leviticus,27,Old,34
+4,Numbers,1,Old,54
+4,Numbers,2,Old,34
+4,Numbers,3,Old,51
+4,Numbers,4,Old,49
+4,Numbers,5,Old,31
+4,Numbers,6,Old,27
+4,Numbers,7,Old,89
+4,Numbers,8,Old,26
+4,Numbers,9,Old,23
+4,Numbers,10,Old,36
+4,Numbers,11,Old,35
+4,Numbers,12,Old,16
+4,Numbers,13,Old,33
+4,Numbers,14,Old,45
+4,Numbers,15,Old,41
+4,Numbers,16,Old,50
+4,Numbers,17,Old,13
+4,Numbers,18,Old,32
+4,Numbers,19,Old,22
+4,Numbers,20,Old,29
+4,Numbers,21,Old,35
+4,Numbers,22,Old,41
+4,Numbers,23,Old,30
+4,Numbers,24,Old,25
+4,Numbers,25,Old,18
+4,Numbers,26,Old,65
+4,Numbers,27,Old,23
+4,Numbers,28,Old,31
+4,Numbers,29,Old,40
+4,Numbers,30,Old,16
+4,Numbers,31,Old,54
+4,Numbers,32,Old,42
+4,Numbers,33,Old,56
+4,Numbers,34,Old,29
+4,Numbers,35,Old,34
+4,Numbers,36,Old,13
+5,Deuteronomy,1,Old,46
+5,Deuteronomy,2,Old,37
+5,Deuteronomy,3,Old,29
+5,Deuteronomy,4,Old,49
+5,Deuteronomy,5,Old,33
+5,Deuteronomy,6,Old,25
+5,Deuteronomy,7,Old,26
+5,Deuteronomy,8,Old,20
+5,Deuteronomy,9,Old,29
+5,Deuteronomy,10,Old,22
+5,Deuteronomy,11,Old,32
+5,Deuteronomy,12,Old,32
+5,Deuteronomy,13,Old,18
+5,Deuteronomy,14,Old,29
+5,Deuteronomy,15,Old,23
+5,Deuteronomy,16,Old,22
+5,Deuteronomy,17,Old,20
+5,Deuteronomy,18,Old,22
+5,Deuteronomy,19,Old,21
+5,Deuteronomy,20,Old,20
+5,Deuteronomy,21,Old,23
+5,Deuteronomy,22,Old,30
+5,Deuteronomy,23,Old,25
+5,Deuteronomy,24,Old,22
+5,Deuteronomy,25,Old,19
+5,Deuteronomy,26,Old,19
+5,Deuteronomy,27,Old,26
+5,Deuteronomy,28,Old,68
+5,Deuteronomy,29,Old,29
+5,Deuteronomy,30,Old,20
+5,Deuteronomy,31,Old,30
+5,Deuteronomy,32,Old,52
+5,Deuteronomy,33,Old,29
+5,Deuteronomy,34,Old,12
+6,Joshua,1,Old,18
+6,Joshua,2,Old,24
+6,Joshua,3,Old,17
+6,Joshua,4,Old,24
+6,Joshua,5,Old,15
+6,Joshua,6,Old,27
+6,Joshua,7,Old,26
+6,Joshua,8,Old,35
+6,Joshua,9,Old,27
+6,Joshua,10,Old,43
+6,Joshua,11,Old,23
+6,Joshua,12,Old,24
+6,Joshua,13,Old,33
+6,Joshua,14,Old,15
+6,Joshua,15,Old,63
+6,Joshua,16,Old,10
+6,Joshua,17,Old,18
+6,Joshua,18,Old,28
+6,Joshua,19,Old,51
+6,Joshua,20,Old,9
+6,Joshua,21,Old,45
+6,Joshua,22,Old,34
+6,Joshua,23,Old,16
+6,Joshua,24,Old,33
+7,Judges,1,Old,36
+7,Judges,2,Old,23
+7,Judges,3,Old,31
+7,Judges,4,Old,24
+7,Judges,5,Old,31
+7,Judges,6,Old,40
+7,Judges,7,Old,25
+7,Judges,8,Old,35
+7,Judges,9,Old,57
+7,Judges,10,Old,18
+7,Judges,11,Old,40
+7,Judges,12,Old,15
+7,Judges,13,Old,25
+7,Judges,14,Old,20
+7,Judges,15,Old,20
+7,Judges,16,Old,31
+7,Judges,17,Old,13
+7,Judges,18,Old,31
+7,Judges,19,Old,30
+7,Judges,20,Old,48
+7,Judges,21,Old,25
+8,Ruth,1,Old,22
+8,Ruth,2,Old,23
+8,Ruth,3,Old,18
+8,Ruth,4,Old,22
+9,1 Samuel,1,Old,28
+9,1 Samuel,2,Old,36
+9,1 Samuel,3,Old,21
+9,1 Samuel,4,Old,22
+9,1 Samuel,5,Old,12
+9,1 Samuel,6,Old,21
+9,1 Samuel,7,Old,17
+9,1 Samuel,8,Old,22
+9,1 Samuel,9,Old,27
+9,1 Samuel,10,Old,27
+9,1 Samuel,11,Old,15
+9,1 Samuel,12,Old,25
+9,1 Samuel,13,Old,23
+9,1 Samuel,14,Old,52
+9,1 Samuel,15,Old,35
+9,1 Samuel,16,Old,23
+9,1 Samuel,17,Old,58
+9,1 Samuel,18,Old,30
+9,1 Samuel,19,Old,24
+9,1 Samuel,20,Old,42
+9,1 Samuel,21,Old,15
+9,1 Samuel,22,Old,23
+9,1 Samuel,23,Old,29
+9,1 Samuel,24,Old,22
+9,1 Samuel,25,Old,44
+9,1 Samuel,26,Old,25
+9,1 Samuel,27,Old,12
+9,1 Samuel,28,Old,25
+9,1 Samuel,29,Old,11
+9,1 Samuel,30,Old,31
+9,1 Samuel,31,Old,13
+10,2 Samuel,1,Old,27
+10,2 Samuel,2,Old,32
+10,2 Samuel,3,Old,39
+10,2 Samuel,4,Old,12
+10,2 Samuel,5,Old,25
+10,2 Samuel,6,Old,23
+10,2 Samuel,7,Old,29
+10,2 Samuel,8,Old,18
+10,2 Samuel,9,Old,13
+10,2 Samuel,10,Old,19
+10,2 Samuel,11,Old,27
+10,2 Samuel,12,Old,31
+10,2 Samuel,13,Old,39
+10,2 Samuel,14,Old,33
+10,2 Samuel,15,Old,37
+10,2 Samuel,16,Old,23
+10,2 Samuel,17,Old,29
+10,2 Samuel,18,Old,33
+10,2 Samuel,19,Old,43
+10,2 Samuel,20,Old,26
+10,2 Samuel,21,Old,22
+10,2 Samuel,22,Old,51
+10,2 Samuel,23,Old,39
+10,2 Samuel,24,Old,25
+11,1 Kings,1,Old,53
+11,1 Kings,2,Old,46
+11,1 Kings,3,Old,28
+11,1 Kings,4,Old,34
+11,1 Kings,5,Old,18
+11,1 Kings,6,Old,38
+11,1 Kings,7,Old,51
+11,1 Kings,8,Old,66
+11,1 Kings,9,Old,28
+11,1 Kings,10,Old,29
+11,1 Kings,11,Old,43
+11,1 Kings,12,Old,33
+11,1 Kings,13,Old,34
+11,1 Kings,14,Old,31
+11,1 Kings,15,Old,34
+11,1 Kings,16,Old,34
+11,1 Kings,17,Old,24
+11,1 Kings,18,Old,46
+11,1 Kings,19,Old,21
+11,1 Kings,20,Old,43
+11,1 Kings,21,Old,29
+11,1 Kings,22,Old,53
+12,2 Kings,1,Old,18
+12,2 Kings,2,Old,25
+12,2 Kings,3,Old,27
+12,2 Kings,4,Old,44
+12,2 Kings,5,Old,27
+12,2 Kings,6,Old,33
+12,2 Kings,7,Old,20
+12,2 Kings,8,Old,29
+12,2 Kings,9,Old,37
+12,2 Kings,10,Old,36
+12,2 Kings,11,Old,21
+12,2 Kings,12,Old,21
+12,2 Kings,13,Old,25
+12,2 Kings,14,Old,29
+12,2 Kings,15,Old,38
+12,2 Kings,16,Old,20
+12,2 Kings,17,Old,41
+12,2 Kings,18,Old,37
+12,2 Kings,19,Old,37
+12,2 Kings,20,Old,21
+12,2 Kings,21,Old,26
+12,2 Kings,22,Old,20
+12,2 Kings,23,Old,37
+12,2 Kings,24,Old,20
+12,2 Kings,25,Old,30
+13,1 Chronicles,1,Old,54
+13,1 Chronicles,2,Old,55
+13,1 Chronicles,3,Old,24
+13,1 Chronicles,4,Old,43
+13,1 Chronicles,5,Old,26
+13,1 Chronicles,6,Old,81
+13,1 Chronicles,7,Old,40
+13,1 Chronicles,8,Old,40
+13,1 Chronicles,9,Old,44
+13,1 Chronicles,10,Old,14
+13,1 Chronicles,11,Old,47
+13,1 Chronicles,12,Old,40
+13,1 Chronicles,13,Old,14
+13,1 Chronicles,14,Old,17
+13,1 Chronicles,15,Old,29
+13,1 Chronicles,16,Old,43
+13,1 Chronicles,17,Old,27
+13,1 Chronicles,18,Old,17
+13,1 Chronicles,19,Old,19
+13,1 Chronicles,20,Old,8
+13,1 Chronicles,21,Old,30
+13,1 Chronicles,22,Old,19
+13,1 Chronicles,23,Old,32
+13,1 Chronicles,24,Old,31
+13,1 Chronicles,25,Old,31
+13,1 Chronicles,26,Old,32
+13,1 Chronicles,27,Old,34
+13,1 Chronicles,28,Old,21
+13,1 Chronicles,29,Old,30
+14,2 Chronicles,1,Old,17
+14,2 Chronicles,2,Old,18
+14,2 Chronicles,3,Old,17
+14,2 Chronicles,4,Old,22
+14,2 Chronicles,5,Old,14
+14,2 Chronicles,6,Old,42
+14,2 Chronicles,7,Old,22
+14,2 Chronicles,8,Old,18
+14,2 Chronicles,9,Old,31
+14,2 Chronicles,10,Old,19
+14,2 Chronicles,11,Old,23
+14,2 Chronicles,12,Old,16
+14,2 Chronicles,13,Old,22
+14,2 Chronicles,14,Old,15
+14,2 Chronicles,15,Old,19
+14,2 Chronicles,16,Old,14
+14,2 Chronicles,17,Old,19
+14,2 Chronicles,18,Old,34
+14,2 Chronicles,19,Old,11
+14,2 Chronicles,20,Old,37
+14,2 Chronicles,21,Old,20
+14,2 Chronicles,22,Old,12
+14,2 Chronicles,23,Old,21
+14,2 Chronicles,24,Old,27
+14,2 Chronicles,25,Old,28
+14,2 Chronicles,26,Old,23
+14,2 Chronicles,27,Old,9
+14,2 Chronicles,28,Old,27
+14,2 Chronicles,29,Old,36
+14,2 Chronicles,30,Old,27
+14,2 Chronicles,31,Old,21
+14,2 Chronicles,32,Old,33
+14,2 Chronicles,33,Old,25
+14,2 Chronicles,34,Old,33
+14,2 Chronicles,35,Old,27
+14,2 Chronicles,36,Old,23
+15,Ezra,1,Old,11
+15,Ezra,2,Old,70
+15,Ezra,3,Old,13
+15,Ezra,4,Old,24
+15,Ezra,5,Old,17
+15,Ezra,6,Old,22
+15,Ezra,7,Old,28
+15,Ezra,8,Old,36
+15,Ezra,9,Old,15
+15,Ezra,10,Old,44
+16,Nehemiah,1,Old,11
+16,Nehemiah,2,Old,20
+16,Nehemiah,3,Old,32
+16,Nehemiah,4,Old,23
+16,Nehemiah,5,Old,19
+16,Nehemiah,6,Old,19
+16,Nehemiah,7,Old,73
+16,Nehemiah,8,Old,18
+16,Nehemiah,9,Old,38
+16,Nehemiah,10,Old,39
+16,Nehemiah,11,Old,36
+16,Nehemiah,12,Old,47
+16,Nehemiah,13,Old,31
+17,Esther,1,Old,22
+17,Esther,2,Old,23
+17,Esther,3,Old,15
+17,Esther,4,Old,17
+17,Esther,5,Old,14
+17,Esther,6,Old,14
+17,Esther,7,Old,10
+17,Esther,8,Old,17
+17,Esther,9,Old,32
+17,Esther,10,Old,3
+18,Job,1,Old,22
+18,Job,2,Old,13
+18,Job,3,Old,26
+18,Job,4,Old,21
+18,Job,5,Old,27
+18,Job,6,Old,30
+18,Job,7,Old,21
+18,Job,8,Old,22
+18,Job,9,Old,35
+18,Job,10,Old,22
+18,Job,11,Old,20
+18,Job,12,Old,25
+18,Job,13,Old,28
+18,Job,14,Old,22
+18,Job,15,Old,35
+18,Job,16,Old,22
+18,Job,17,Old,16
+18,Job,18,Old,21
+18,Job,19,Old,29
+18,Job,20,Old,29
+18,Job,21,Old,34
+18,Job,22,Old,30
+18,Job,23,Old,17
+18,Job,24,Old,25
+18,Job,25,Old,6
+18,Job,26,Old,14
+18,Job,27,Old,23
+18,Job,28,Old,28
+18,Job,29,Old,25
+18,Job,30,Old,31
+18,Job,31,Old,40
+18,Job,32,Old,22
+18,Job,33,Old,33
+18,Job,34,Old,37
+18,Job,35,Old,16
+18,Job,36,Old,33
+18,Job,37,Old,24
+18,Job,38,Old,41
+18,Job,39,Old,30
+18,Job,40,Old,24
+18,Job,41,Old,34
+18,Job,42,Old,17
+19,Psalms,1,Old,6
+19,Psalms,2,Old,12
+19,Psalms,3,Old,8
+19,Psalms,4,Old,8
+19,Psalms,5,Old,12
+19,Psalms,6,Old,10
+19,Psalms,7,Old,17
+19,Psalms,8,Old,9
+19,Psalms,9,Old,20
+19,Psalms,10,Old,18
+19,Psalms,11,Old,7
+19,Psalms,12,Old,8
+19,Psalms,13,Old,6
+19,Psalms,14,Old,7
+19,Psalms,15,Old,5
+19,Psalms,16,Old,11
+19,Psalms,17,Old,15
+19,Psalms,18,Old,50
+19,Psalms,19,Old,14
+19,Psalms,20,Old,9
+19,Psalms,21,Old,13
+19,Psalms,22,Old,31
+19,Psalms,23,Old,6
+19,Psalms,24,Old,10
+19,Psalms,25,Old,22
+19,Psalms,26,Old,12
+19,Psalms,27,Old,14
+19,Psalms,28,Old,9
+19,Psalms,29,Old,11
+19,Psalms,30,Old,12
+19,Psalms,31,Old,24
+19,Psalms,32,Old,11
+19,Psalms,33,Old,22
+19,Psalms,34,Old,22
+19,Psalms,35,Old,28
+19,Psalms,36,Old,12
+19,Psalms,37,Old,40
+19,Psalms,38,Old,22
+19,Psalms,39,Old,13
+19,Psalms,40,Old,17
+19,Psalms,41,Old,13
+19,Psalms,42,Old,11
+19,Psalms,43,Old,5
+19,Psalms,44,Old,26
+19,Psalms,45,Old,17
+19,Psalms,46,Old,11
+19,Psalms,47,Old,9
+19,Psalms,48,Old,14
+19,Psalms,49,Old,20
+19,Psalms,50,Old,23
+19,Psalms,51,Old,19
+19,Psalms,52,Old,9
+19,Psalms,53,Old,6
+19,Psalms,54,Old,7
+19,Psalms,55,Old,23
+19,Psalms,56,Old,13
+19,Psalms,57,Old,11
+19,Psalms,58,Old,11
+19,Psalms,59,Old,17
+19,Psalms,60,Old,12
+19,Psalms,61,Old,8
+19,Psalms,62,Old,12
+19,Psalms,63,Old,11
+19,Psalms,64,Old,10
+19,Psalms,65,Old,13
+19,Psalms,66,Old,20
+19,Psalms,67,Old,7
+19,Psalms,68,Old,35
+19,Psalms,69,Old,36
+19,Psalms,70,Old,5
+19,Psalms,71,Old,24
+19,Psalms,72,Old,20
+19,Psalms,73,Old,28
+19,Psalms,74,Old,23
+19,Psalms,75,Old,10
+19,Psalms,76,Old,12
+19,Psalms,77,Old,20
+19,Psalms,78,Old,72
+19,Psalms,79,Old,13
+19,Psalms,80,Old,19
+19,Psalms,81,Old,16
+19,Psalms,82,Old,8
+19,Psalms,83,Old,18
+19,Psalms,84,Old,12
+19,Psalms,85,Old,13
+19,Psalms,86,Old,17
+19,Psalms,87,Old,7
+19,Psalms,88,Old,18
+19,Psalms,89,Old,52
+19,Psalms,90,Old,17
+19,Psalms,91,Old,16
+19,Psalms,92,Old,15
+19,Psalms,93,Old,5
+19,Psalms,94,Old,23
+19,Psalms,95,Old,11
+19,Psalms,96,Old,13
+19,Psalms,97,Old,12
+19,Psalms,98,Old,9
+19,Psalms,99,Old,9
+19,Psalms,100,Old,5
+19,Psalms,101,Old,8
+19,Psalms,102,Old,28
+19,Psalms,103,Old,22
+19,Psalms,104,Old,35
+19,Psalms,105,Old,45
+19,Psalms,106,Old,48
+19,Psalms,107,Old,43
+19,Psalms,108,Old,13
+19,Psalms,109,Old,31
+19,Psalms,110,Old,7
+19,Psalms,111,Old,10
+19,Psalms,112,Old,10
+19,Psalms,113,Old,9
+19,Psalms,114,Old,8
+19,Psalms,115,Old,18
+19,Psalms,116,Old,19
+19,Psalms,117,Old,2
+19,Psalms,118,Old,29
+19,Psalms,119,Old,176
+19,Psalms,120,Old,7
+19,Psalms,121,Old,8
+19,Psalms,122,Old,9
+19,Psalms,123,Old,4
+19,Psalms,124,Old,8
+19,Psalms,125,Old,5
+19,Psalms,126,Old,6
+19,Psalms,127,Old,5
+19,Psalms,128,Old,6
+19,Psalms,129,Old,8
+19,Psalms,130,Old,8
+19,Psalms,131,Old,3
+19,Psalms,132,Old,18
+19,Psalms,133,Old,3
+19,Psalms,134,Old,3
+19,Psalms,135,Old,21
+19,Psalms,136,Old,26
+19,Psalms,137,Old,9
+19,Psalms,138,Old,8
+19,Psalms,139,Old,24
+19,Psalms,140,Old,13
+19,Psalms,141,Old,10
+19,Psalms,142,Old,7
+19,Psalms,143,Old,12
+19,Psalms,144,Old,15
+19,Psalms,145,Old,21
+19,Psalms,146,Old,10
+19,Psalms,147,Old,20
+19,Psalms,148,Old,14
+19,Psalms,149,Old,9
+19,Psalms,150,Old,6
+20,Proverbs,1,Old,33
+20,Proverbs,2,Old,22
+20,Proverbs,3,Old,35
+20,Proverbs,4,Old,27
+20,Proverbs,5,Old,23
+20,Proverbs,6,Old,35
+20,Proverbs,7,Old,27
+20,Proverbs,8,Old,36
+20,Proverbs,9,Old,18
+20,Proverbs,10,Old,32
+20,Proverbs,11,Old,31
+20,Proverbs,12,Old,28
+20,Proverbs,13,Old,25
+20,Proverbs,14,Old,35
+20,Proverbs,15,Old,33
+20,Proverbs,16,Old,33
+20,Proverbs,17,Old,28
+20,Proverbs,18,Old,24
+20,Proverbs,19,Old,29
+20,Proverbs,20,Old,30
+20,Proverbs,21,Old,31
+20,Proverbs,22,Old,29
+20,Proverbs,23,Old,35
+20,Proverbs,24,Old,34
+20,Proverbs,25,Old,28
+20,Proverbs,26,Old,28
+20,Proverbs,27,Old,27
+20,Proverbs,28,Old,28
+20,Proverbs,29,Old,27
+20,Proverbs,30,Old,33
+20,Proverbs,31,Old,31
+21,Ecclesiastes,1,Old,18
+21,Ecclesiastes,2,Old,26
+21,Ecclesiastes,3,Old,22
+21,Ecclesiastes,4,Old,16
+21,Ecclesiastes,5,Old,20
+21,Ecclesiastes,6,Old,12
+21,Ecclesiastes,7,Old,29
+21,Ecclesiastes,8,Old,17
+21,Ecclesiastes,9,Old,18
+21,Ecclesiastes,10,Old,20
+21,Ecclesiastes,11,Old,10
+21,Ecclesiastes,12,Old,14
+22,Song of Solomon,1,Old,17
+22,Song of Solomon,2,Old,17
+22,Song of Solomon,3,Old,11
+22,Song of Solomon,4,Old,16
+22,Song of Solomon,5,Old,16
+22,Song of Solomon,6,Old,13
+22,Song of Solomon,7,Old,13
+22,Song of Solomon,8,Old,14
+23,Isaiah,1,Old,31
+23,Isaiah,2,Old,22
+23,Isaiah,3,Old,26
+23,Isaiah,4,Old,6
+23,Isaiah,5,Old,30
+23,Isaiah,6,Old,13
+23,Isaiah,7,Old,25
+23,Isaiah,8,Old,22
+23,Isaiah,9,Old,21
+23,Isaiah,10,Old,34
+23,Isaiah,11,Old,16
+23,Isaiah,12,Old,6
+23,Isaiah,13,Old,22
+23,Isaiah,14,Old,32
+23,Isaiah,15,Old,9
+23,Isaiah,16,Old,14
+23,Isaiah,17,Old,14
+23,Isaiah,18,Old,7
+23,Isaiah,19,Old,25
+23,Isaiah,20,Old,6
+23,Isaiah,21,Old,17
+23,Isaiah,22,Old,25
+23,Isaiah,23,Old,18
+23,Isaiah,24,Old,23
+23,Isaiah,25,Old,12
+23,Isaiah,26,Old,21
+23,Isaiah,27,Old,13
+23,Isaiah,28,Old,29
+23,Isaiah,29,Old,24
+23,Isaiah,30,Old,33
+23,Isaiah,31,Old,9
+23,Isaiah,32,Old,20
+23,Isaiah,33,Old,24
+23,Isaiah,34,Old,17
+23,Isaiah,35,Old,10
+23,Isaiah,36,Old,22
+23,Isaiah,37,Old,38
+23,Isaiah,38,Old,22
+23,Isaiah,39,Old,8
+23,Isaiah,40,Old,31
+23,Isaiah,41,Old,29
+23,Isaiah,42,Old,25
+23,Isaiah,43,Old,28
+23,Isaiah,44,Old,28
+23,Isaiah,45,Old,25
+23,Isaiah,46,Old,13
+23,Isaiah,47,Old,15
+23,Isaiah,48,Old,22
+23,Isaiah,49,Old,26
+23,Isaiah,50,Old,11
+23,Isaiah,51,Old,23
+23,Isaiah,52,Old,15
+23,Isaiah,53,Old,12
+23,Isaiah,54,Old,17
+23,Isaiah,55,Old,13
+23,Isaiah,56,Old,12
+23,Isaiah,57,Old,21
+23,Isaiah,58,Old,14
+23,Isaiah,59,Old,21
+23,Isaiah,60,Old,22
+23,Isaiah,61,Old,11
+23,Isaiah,62,Old,12
+23,Isaiah,63,Old,19
+23,Isaiah,64,Old,12
+23,Isaiah,65,Old,25
+23,Isaiah,66,Old,24
+24,Jeremiah,1,Old,19
+24,Jeremiah,2,Old,37
+24,Jeremiah,3,Old,25
+24,Jeremiah,4,Old,31
+24,Jeremiah,5,Old,31
+24,Jeremiah,6,Old,30
+24,Jeremiah,7,Old,34
+24,Jeremiah,8,Old,22
+24,Jeremiah,9,Old,26
+24,Jeremiah,10,Old,25
+24,Jeremiah,11,Old,23
+24,Jeremiah,12,Old,17
+24,Jeremiah,13,Old,27
+24,Jeremiah,14,Old,22
+24,Jeremiah,15,Old,21
+24,Jeremiah,16,Old,21
+24,Jeremiah,17,Old,27
+24,Jeremiah,18,Old,23
+24,Jeremiah,19,Old,15
+24,Jeremiah,20,Old,18
+24,Jeremiah,21,Old,14
+24,Jeremiah,22,Old,30
+24,Jeremiah,23,Old,40
+24,Jeremiah,24,Old,10
+24,Jeremiah,25,Old,38
+24,Jeremiah,26,Old,24
+24,Jeremiah,27,Old,22
+24,Jeremiah,28,Old,17
+24,Jeremiah,29,Old,32
+24,Jeremiah,30,Old,24
+24,Jeremiah,31,Old,40
+24,Jeremiah,32,Old,44
+24,Jeremiah,33,Old,26
+24,Jeremiah,34,Old,22
+24,Jeremiah,35,Old,19
+24,Jeremiah,36,Old,32
+24,Jeremiah,37,Old,21
+24,Jeremiah,38,Old,28
+24,Jeremiah,39,Old,18
+24,Jeremiah,40,Old,16
+24,Jeremiah,41,Old,18
+24,Jeremiah,42,Old,22
+24,Jeremiah,43,Old,13
+24,Jeremiah,44,Old,30
+24,Jeremiah,45,Old,5
+24,Jeremiah,46,Old,28
+24,Jeremiah,47,Old,7
+24,Jeremiah,48,Old,47
+24,Jeremiah,49,Old,39
+24,Jeremiah,50,Old,46
+24,Jeremiah,51,Old,64
+24,Jeremiah,52,Old,34
+25,Lamentations,1,Old,22
+25,Lamentations,2,Old,22
+25,Lamentations,3,Old,66
+25,Lamentations,4,Old,22
+25,Lamentations,5,Old,22
+26,Ezekiel,1,Old,28
+26,Ezekiel,2,Old,10
+26,Ezekiel,3,Old,27
+26,Ezekiel,4,Old,17
+26,Ezekiel,5,Old,17
+26,Ezekiel,6,Old,14
+26,Ezekiel,7,Old,27
+26,Ezekiel,8,Old,18
+26,Ezekiel,9,Old,11
+26,Ezekiel,10,Old,22
+26,Ezekiel,11,Old,25
+26,Ezekiel,12,Old,28
+26,Ezekiel,13,Old,23
+26,Ezekiel,14,Old,23
+26,Ezekiel,15,Old,8
+26,Ezekiel,16,Old,63
+26,Ezekiel,17,Old,24
+26,Ezekiel,18,Old,32
+26,Ezekiel,19,Old,14
+26,Ezekiel,20,Old,49
+26,Ezekiel,21,Old,32
+26,Ezekiel,22,Old,31
+26,Ezekiel,23,Old,49
+26,Ezekiel,24,Old,27
+26,Ezekiel,25,Old,17
+26,Ezekiel,26,Old,21
+26,Ezekiel,27,Old,36
+26,Ezekiel,28,Old,26
+26,Ezekiel,29,Old,21
+26,Ezekiel,30,Old,26
+26,Ezekiel,31,Old,18
+26,Ezekiel,32,Old,32
+26,Ezekiel,33,Old,33
+26,Ezekiel,34,Old,31
+26,Ezekiel,35,Old,15
+26,Ezekiel,36,Old,38
+26,Ezekiel,37,Old,28
+26,Ezekiel,38,Old,23
+26,Ezekiel,39,Old,29
+26,Ezekiel,40,Old,49
+26,Ezekiel,41,Old,26
+26,Ezekiel,42,Old,20
+26,Ezekiel,43,Old,27
+26,Ezekiel,44,Old,31
+26,Ezekiel,45,Old,25
+26,Ezekiel,46,Old,24
+26,Ezekiel,47,Old,23
+26,Ezekiel,48,Old,35
+27,Daniel,1,Old,21
+27,Daniel,2,Old,49
+27,Daniel,3,Old,30
+27,Daniel,4,Old,37
+27,Daniel,5,Old,31
+27,Daniel,6,Old,28
+27,Daniel,7,Old,28
+27,Daniel,8,Old,27
+27,Daniel,9,Old,27
+27,Daniel,10,Old,21
+27,Daniel,11,Old,45
+27,Daniel,12,Old,13
+28,Hosea,1,Old,11
+28,Hosea,2,Old,23
+28,Hosea,3,Old,5
+28,Hosea,4,Old,19
+28,Hosea,5,Old,15
+28,Hosea,6,Old,11
+28,Hosea,7,Old,16
+28,Hosea,8,Old,14
+28,Hosea,9,Old,17
+28,Hosea,10,Old,15
+28,Hosea,11,Old,12
+28,Hosea,12,Old,14
+28,Hosea,13,Old,16
+28,Hosea,14,Old,9
+29,Joel,1,Old,20
+29,Joel,2,Old,32
+29,Joel,3,Old,21
+30,Amos,1,Old,15
+30,Amos,2,Old,16
+30,Amos,3,Old,15
+30,Amos,4,Old,13
+30,Amos,5,Old,27
+30,Amos,6,Old,14
+30,Amos,7,Old,17
+30,Amos,8,Old,14
+30,Amos,9,Old,15
+31,Obadiah,1,Old,21
+32,Jonah,1,Old,17
+32,Jonah,2,Old,10
+32,Jonah,3,Old,10
+32,Jonah,4,Old,11
+33,Micah,1,Old,16
+33,Micah,2,Old,13
+33,Micah,3,Old,12
+33,Micah,4,Old,13
+33,Micah,5,Old,15
+33,Micah,6,Old,16
+33,Micah,7,Old,20
+34,Nahum,1,Old,15
+34,Nahum,2,Old,13
+34,Nahum,3,Old,19
+35,Habakkuk,1,Old,17
+35,Habakkuk,2,Old,20
+35,Habakkuk,3,Old,19
+36,Zephaniah,1,Old,18
+36,Zephaniah,2,Old,15
+36,Zephaniah,3,Old,20
+37,Haggai,1,Old,15
+37,Haggai,2,Old,23
+38,Zechariah,1,Old,21
+38,Zechariah,2,Old,13
+38,Zechariah,3,Old,10
+38,Zechariah,4,Old,14
+38,Zechariah,5,Old,11
+38,Zechariah,6,Old,15
+38,Zechariah,7,Old,14
+38,Zechariah,8,Old,23
+38,Zechariah,9,Old,17
+38,Zechariah,10,Old,12
+38,Zechariah,11,Old,17
+38,Zechariah,12,Old,14
+38,Zechariah,13,Old,9
+38,Zechariah,14,Old,21
+39,Malachi,1,Old,14
+39,Malachi,2,Old,17
+39,Malachi,3,Old,18
+39,Malachi,4,Old,6
+40,Matthew,1,New,25
+40,Matthew,2,New,23
+40,Matthew,3,New,17
+40,Matthew,4,New,25
+40,Matthew,5,New,48
+40,Matthew,6,New,34
+40,Matthew,7,New,29
+40,Matthew,8,New,34
+40,Matthew,9,New,38
+40,Matthew,10,New,42
+40,Matthew,11,New,30
+40,Matthew,12,New,50
+40,Matthew,13,New,58
+40,Matthew,14,New,36
+40,Matthew,15,New,39
+40,Matthew,16,New,28
+40,Matthew,17,New,27
+40,Matthew,18,New,35
+40,Matthew,19,New,30
+40,Matthew,20,New,34
+40,Matthew,21,New,46
+40,Matthew,22,New,46
+40,Matthew,23,New,39
+40,Matthew,24,New,51
+40,Matthew,25,New,46
+40,Matthew,26,New,75
+40,Matthew,27,New,66
+40,Matthew,28,New,20
+41,Mark,1,New,45
+41,Mark,2,New,28
+41,Mark,3,New,35
+41,Mark,4,New,41
+41,Mark,5,New,43
+41,Mark,6,New,56
+41,Mark,7,New,37
+41,Mark,8,New,38
+41,Mark,9,New,50
+41,Mark,10,New,52
+41,Mark,11,New,33
+41,Mark,12,New,44
+41,Mark,13,New,37
+41,Mark,14,New,72
+41,Mark,15,New,47
+41,Mark,16,New,20
+42,Luke,1,New,80
+42,Luke,2,New,52
+42,Luke,3,New,38
+42,Luke,4,New,44
+42,Luke,5,New,39
+42,Luke,6,New,49
+42,Luke,7,New,50
+42,Luke,8,New,56
+42,Luke,9,New,62
+42,Luke,10,New,42
+42,Luke,11,New,54
+42,Luke,12,New,59
+42,Luke,13,New,35
+42,Luke,14,New,35
+42,Luke,15,New,32
+42,Luke,16,New,31
+42,Luke,17,New,37
+42,Luke,18,New,43
+42,Luke,19,New,48
+42,Luke,20,New,47
+42,Luke,21,New,38
+42,Luke,22,New,71
+42,Luke,23,New,56
+42,Luke,24,New,53
+43,John,1,New,51
+43,John,2,New,25
+43,John,3,New,36
+43,John,4,New,54
+43,John,5,New,47
+43,John,6,New,71
+43,John,7,New,53
+43,John,8,New,59
+43,John,9,New,41
+43,John,10,New,42
+43,John,11,New,57
+43,John,12,New,50
+43,John,13,New,38
+43,John,14,New,31
+43,John,15,New,27
+43,John,16,New,33
+43,John,17,New,26
+43,John,18,New,40
+43,John,19,New,42
+43,John,20,New,31
+43,John,21,New,25
+44,Acts,1,New,26
+44,Acts,2,New,47
+44,Acts,3,New,26
+44,Acts,4,New,37
+44,Acts,5,New,42
+44,Acts,6,New,15
+44,Acts,7,New,60
+44,Acts,8,New,40
+44,Acts,9,New,43
+44,Acts,10,New,48
+44,Acts,11,New,30
+44,Acts,12,New,25
+44,Acts,13,New,52
+44,Acts,14,New,28
+44,Acts,15,New,41
+44,Acts,16,New,40
+44,Acts,17,New,34
+44,Acts,18,New,28
+44,Acts,19,New,41
+44,Acts,20,New,38
+44,Acts,21,New,40
+44,Acts,22,New,30
+44,Acts,23,New,35
+44,Acts,24,New,27
+44,Acts,25,New,27
+44,Acts,26,New,32
+44,Acts,27,New,44
+44,Acts,28,New,31
+45,Romans,1,New,32
+45,Romans,2,New,29
+45,Romans,3,New,31
+45,Romans,4,New,25
+45,Romans,5,New,21
+45,Romans,6,New,23
+45,Romans,7,New,25
+45,Romans,8,New,39
+45,Romans,9,New,33
+45,Romans,10,New,21
+45,Romans,11,New,36
+45,Romans,12,New,21
+45,Romans,13,New,14
+45,Romans,14,New,23
+45,Romans,15,New,33
+45,Romans,16,New,27
+46,1 Corinthians,1,New,31
+46,1 Corinthians,2,New,16
+46,1 Corinthians,3,New,23
+46,1 Corinthians,4,New,21
+46,1 Corinthians,5,New,13
+46,1 Corinthians,6,New,20
+46,1 Corinthians,7,New,40
+46,1 Corinthians,8,New,13
+46,1 Corinthians,9,New,27
+46,1 Corinthians,10,New,33
+46,1 Corinthians,11,New,34
+46,1 Corinthians,12,New,31
+46,1 Corinthians,13,New,13
+46,1 Corinthians,14,New,40
+46,1 Corinthians,15,New,58
+46,1 Corinthians,16,New,24
+47,2 Corinthians,1,New,24
+47,2 Corinthians,2,New,17
+47,2 Corinthians,3,New,18
+47,2 Corinthians,4,New,18
+47,2 Corinthians,5,New,21
+47,2 Corinthians,6,New,18
+47,2 Corinthians,7,New,16
+47,2 Corinthians,8,New,24
+47,2 Corinthians,9,New,15
+47,2 Corinthians,10,New,18
+47,2 Corinthians,11,New,33
+47,2 Corinthians,12,New,21
+47,2 Corinthians,13,New,14
+48,Galatians,1,New,24
+48,Galatians,2,New,21
+48,Galatians,3,New,29
+48,Galatians,4,New,31
+48,Galatians,5,New,26
+48,Galatians,6,New,18
+49,Ephesians,1,New,23
+49,Ephesians,2,New,22
+49,Ephesians,3,New,21
+49,Ephesians,4,New,32
+49,Ephesians,5,New,33
+49,Ephesians,6,New,24
+50,Philippians,1,New,30
+50,Philippians,2,New,30
+50,Philippians,3,New,21
+50,Philippians,4,New,23
+51,Colossians,1,New,29
+51,Colossians,2,New,23
+51,Colossians,3,New,25
+51,Colossians,4,New,18
+52,1 Thessalonians,1,New,10
+52,1 Thessalonians,2,New,20
+52,1 Thessalonians,3,New,13
+52,1 Thessalonians,4,New,18
+52,1 Thessalonians,5,New,28
+53,2 Thessalonians,1,New,12
+53,2 Thessalonians,2,New,17
+53,2 Thessalonians,3,New,18
+54,1 Timothy,1,New,20
+54,1 Timothy,2,New,15
+54,1 Timothy,3,New,16
+54,1 Timothy,4,New,16
+54,1 Timothy,5,New,25
+54,1 Timothy,6,New,21
+55,2 Timothy,1,New,18
+55,2 Timothy,2,New,26
+55,2 Timothy,3,New,17
+55,2 Timothy,4,New,22
+56,Titus,1,New,16
+56,Titus,2,New,15
+56,Titus,3,New,15
+57,Philemon,1,New,25
+58,Hebrews,1,New,14
+58,Hebrews,2,New,18
+58,Hebrews,3,New,19
+58,Hebrews,4,New,16
+58,Hebrews,5,New,14
+58,Hebrews,6,New,20
+58,Hebrews,7,New,28
+58,Hebrews,8,New,13
+58,Hebrews,9,New,28
+58,Hebrews,10,New,39
+58,Hebrews,11,New,40
+58,Hebrews,12,New,29
+58,Hebrews,13,New,25
+59,James,1,New,27
+59,James,2,New,26
+59,James,3,New,18
+59,James,4,New,17
+59,James,5,New,20
+60,1 Peter,1,New,25
+60,1 Peter,2,New,25
+60,1 Peter,3,New,22
+60,1 Peter,4,New,19
+60,1 Peter,5,New,14
+61,2 Peter,1,New,21
+61,2 Peter,2,New,22
+61,2 Peter,3,New,18
+62,1 John,1,New,10
+62,1 John,2,New,29
+62,1 John,3,New,24
+62,1 John,4,New,21
+62,1 John,5,New,21
+63,2 John,1,New,13
+64,3 John,1,New,15
+65,Jude,1,New,25
+66,Revelation,1,New,20
+66,Revelation,2,New,29
+66,Revelation,3,New,22
+66,Revelation,4,New,11
+66,Revelation,5,New,14
+66,Revelation,6,New,17
+66,Revelation,7,New,17
+66,Revelation,8,New,13
+66,Revelation,9,New,21
+66,Revelation,10,New,11
+66,Revelation,11,New,19
+66,Revelation,12,New,17
+66,Revelation,13,New,18
+66,Revelation,14,New,20
+66,Revelation,15,New,8
+66,Revelation,16,New,21
+66,Revelation,17,New,18
+66,Revelation,18,New,24
+66,Revelation,19,New,21
+66,Revelation,20,New,15
+66,Revelation,21,New,27
+66,Revelation,22,New,21
