@@ -1,7 +1,7 @@
 import os
 from pages import print_home, print_history
 from datetime import datetime
-from data_manager import plan, reading_history, bible_data, get_today_passage, today, passage_parser, save_reading_history
+from data_manager import plan, reading_history, bible_data, get_today_passage, today, passage_parser, save_reading_history, count_verses
 from reading import Reading, DailyReading
 
 
@@ -20,6 +20,9 @@ def clear_command(args):
        
 def exit_command(args):
     print("Exiting Bible Reader...")
+    success = save_reading_history(reading_history)
+    if not success:
+        print("Failed to save reading history.")
     exit(0)
     
          
@@ -34,7 +37,12 @@ def home_command(args):
     
     
 def record_command(args):
-    this_reading = passage_parser(args)    
+    if args[0] == "today":
+        print("Recording today's passage...")
+        passage = get_today_passage()
+        this_reading = passage_parser(passage.split())
+    else:
+        this_reading = passage_parser(args)    
     if this_reading is None:
         return
     
@@ -60,6 +68,9 @@ def history_command(args):
         return
     
     print_history(reading_history)
+    
+def vcount_command(args):
+    print(f"Total verses read today: {count_verses(reading_history.get(today))}")
        
        
        
@@ -78,6 +89,7 @@ command_list = {
     "help": repl_command("help", "Show this help message", help_command),
     "home": repl_command("home", "Re-prints the home screen", home_command),
     "record": repl_command("record", "Record a reading for today. Usage: record [book] [start chapter] [start verse] [end chapter] [end verse]", record_command),
-    "history": repl_command("history", "Show reading history", history_command)
+    "history": repl_command("history", "Show reading history", history_command),
+    "vcount": repl_command("vcount", "Show total verses read today", vcount_command)
     
 }

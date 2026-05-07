@@ -200,3 +200,43 @@ def save_reading_history(daily_readings: dict[str, DailyReading]):
             os.remove(temp_path)
 
         return False
+    
+    
+def count_verses(daily_reading: DailyReading):
+    total_verses = 0
+    for reading in daily_reading.readings:
+        start_key = (reading.book, reading.start_chapter)
+        end_key = (reading.book, reading.end_chapter)
+
+        if start_key not in bible_data or end_key not in bible_data:
+            continue
+
+        if reading.start_chapter == reading.end_chapter:
+            total_verses += reading.end_verse - reading.start_verse + 1
+        else:
+            total_verses += bible_data[start_key] - reading.start_verse + 1
+            total_verses += reading.end_verse
+
+            for chapter in range(reading.start_chapter + 1, reading.end_chapter):
+                total_verses += bible_data.get((reading.book, chapter), 0)
+
+    return total_verses
+
+def get_recent_daily_readings(
+    reading_history: dict[str, DailyReading],
+    days: int = 70
+) -> list[DailyReading]:
+    today = datetime.now().date()
+    start_date = today - timedelta(days=days - 1)
+
+    recent = []
+
+    for i in range(days):
+        current_date = start_date + timedelta(days=i)
+        date_key = current_date.strftime("%Y-%m-%d")
+
+        if date_key in reading_history:
+            recent.append(reading_history[date_key])
+
+    return recent
+
