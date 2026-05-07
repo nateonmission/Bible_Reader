@@ -14,6 +14,9 @@ class Reading:
     def __str__(self):
         return f"{self.date}, {self.book}, {self.start_chapter}, {self.start_verse}, {self.end_chapter}, {self.end_verse}"
     
+    def recompose(self):
+        return f"{self.book} {self.start_chapter}:{self.start_verse} - {self.end_chapter}:{self.end_verse}"
+    
     
 @dataclass
 class DailyReading:
